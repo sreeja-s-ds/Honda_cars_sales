@@ -36,8 +36,6 @@ The script includes:
 
 Cleaning and converting Price (from Lakhs) and kms Driven (from text) to numeric values
 
-Removing duplicates
-
 Label encoding categorical variables: Fuel Type, Suspension, and Car Model
 
 📊 **Statistical Tests Applied**
